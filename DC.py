@@ -1,4 +1,4 @@
-import math
+import math;
 import heapq
 rack_coordinates = {
     # CR3
